@@ -1,0 +1,43 @@
+export const data  = [
+
+    { id:1,
+          title:"Healthy Meal",
+        image:"https://images.pexels.com/photos/1099681/pexels-photo-1099681.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        detail:"A healthy meal is a nourishing and well-balanced combination of foods that provide essential nutrients, energy, and promote overall well-being. It consists of a variety of whole foods such as fruits, vegetables, whole grains, lean proteins, and healthy fats. These foods are rich in vitamins, minerals, antioxidants, and fiber, which support optimal bodily functions and help prevent chronic diseases. A healthy meal is low in added sugars, sodium, and unhealthy fats, promoting heart health and maintaining a healthy weight. It is important to prioritize portion control and mindful eating, savoring each bite and paying attention to hunger and fullness cues. Including a rainbow of colorful fruits and vegetables ensures a diverse array of nutrients. A healthy meal not only fuels the body but also uplifts the mood, boosts energy levels, and enhances overall vitality. Making conscious choices about the foods we consume contributes to a balanced and healthy lifestyle."
+    },
+    { id:2,
+            title:"Scuba Diving",
+        image:"https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        detail:"Scuba diving is a thrilling adventure that allows us to explore the mesmerizing world beneath the waves. Descending into the depths of the ocean, we enter a realm filled with breathtaking beauty and incredible marine life. The experience of weightlessly gliding through the water, surrounded by vibrant coral reefs and colorful fish, is truly awe-inspiring. Scuba diving offers a unique opportunity to witness the wonders of underwater ecosystems and appreciate the delicate balance of nature. From encountering majestic sea turtles and graceful manta rays to observing intricate coral formations, every dive is an opportunity for discovery and connection with the natural world. The sense of serenity and tranquility underwater is unmatched, providing a temporary escape from the hustle and bustle of everyday life. Scuba diving also fosters a deep appreciation for marine conservation, as we witness firsthand the importance of protecting and preserving these fragile ecosystems. It is a thrilling and transformative experience that leaves a lasting impression and fuels a lifelong passion for the oceans."
+    },
+    {  
+        id:3,
+           title:"Fittness",
+        image:"https://images.pexels.com/photos/863977/pexels-photo-863977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        detail:"Fitness is a journey of self-care and well-being that encompasses physical, mental, and emotional health. It involves engaging in regular exercise, maintaining a balanced diet, and prioritizing self-care practices. Physical fitness improves strength, flexibility, endurance, and overall cardiovascular health. It boosts energy levels, promotes weight management, and reduces the risk of chronic diseases. Mental fitness focuses on nurturing a positive mindset, managing stress, and enhancing cognitive abilities. It includes activities like meditation, mindfulness, and stress-reducing exercises. Emotional fitness emphasizes self-awareness, emotional resilience, and fostering healthy relationships. It involves practices such as journaling, therapy, and social support networks. Fitness is a holistic approach to living a vibrant and fulfilling life. It empowers individuals to take control of their health, find balance, and unlock their full potential. By prioritizing fitness, we can experience increased vitality, improved mood, enhanced self-confidence, and a higher quality of life."
+    },
+    {     
+        id:4,
+        title:"Sky Diving",
+        image:"https://images.pexels.com/photos/8479826/pexels-photo-8479826.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        detail:"Skydiving is an exhilarating and adrenaline-pumping adventure sport that involves jumping from an aircraft and freefalling through the sky before deploying a parachute. It offers a unique and breathtaking experience like no other. As you step out of the plane, the rush of wind and the breathtaking view from thousands of feet above the ground take your breath away. The sensation of freefalling, with the adrenaline coursing through your veins, is both thrilling and liberating. The feeling of weightlessness and the panoramic view of the earth below create an unforgettable moment. As the parachute opens, you glide gracefully through the air, enjoying the serenity and beauty of the surroundings. Skydiving pushes your limits, boosts confidence, and provides an unmatched sense of accomplishment. It's an adventure that leaves you with lifelong memories and a newfound appreciation for the wonders of the sky."
+    },
+    {     
+        id:5,
+        title:"Paris",
+        image:"https://images.pexels.com/photos/2570208/pexels-photo-2570208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        detail:"Paris, often referred to as the City of Light, is a captivating and enchanting destination that captures the hearts of millions of visitors every year. Steeped in history, culture, and romance, Paris offers a unique blend of old-world charm and modern vibrancy. The city is renowned for its iconic landmarks such as the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral, each exuding architectural magnificence and cultural significance. Walking along the picturesque streets of Paris, lined with charming cafes, boutiques, and art galleries, evokes a sense of timeless elegance. The city's culinary scene is a gastronomic delight, with its world-class cuisine and delectable pastries like croissants and macarons. Paris also hosts vibrant cultural events, fashion shows, and art exhibitions, showcasing its status as a global hub of creativity. Whether strolling along the Seine River or exploring the bohemian neighborhood of Montmartre, Paris offers a magical experience that lingers in the hearts of visitors forever."
+    },
+    {     
+        id:6,
+        title:"Economy",
+        image:"https://images.pexels.com/photos/210010/pexels-photo-210010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        detail:"The economy is the backbone of any nation, driving its growth, development, and prosperity. It encompasses the production, distribution, and consumption of goods and services within a society. A strong economy fosters job creation, higher standards of living, and improved quality of life for its citizens. It is shaped by various factors such as government policies, business activities, trade, and financial systems. Key indicators like GDP, inflation, employment rates, and fiscal policies provide insights into the health of an economy. Global economies are interconnected through trade and investments, creating opportunities for international cooperation and economic development. Innovation and technological advancements play a vital role in shaping modern economies, driving productivity and efficiency. Sustainable economic growth focuses on balancing social, environmental, and economic factors to ensure long-term prosperity. Overall, a well-functioning economy is essential for creating opportunities, reducing poverty, and improving the overall well-being of individuals and communities."
+    },
+    {
+        id:7,
+        title:"Nature",
+        image:"https://images.pexels.com/photos/1083515/pexels-photo-1083515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        detail:"Nature is a wondrous and awe-inspiring force that encompasses the world around us. It is the intricate web of life that exists in forests, oceans, mountains, and every corner of our planet. From the majestic mountains reaching towards the sky to the serene lakes reflecting the beauty of the surroundings, nature captivates us with its breathtaking landscapes. The diverse ecosystems and rich biodiversity found in nature provide habitat to countless species, each playing a vital role in the delicate balance of our planet. Nature offers us solace and tranquility, allowing us to escape the noise and chaos of modern life. It is a source of inspiration, nurturing our creativity and connecting us to something greater than ourselves. The healing power of nature rejuvenates our minds, bodies, and spirits, reminding us of our intrinsic connection to the Earth. As caretakers of this planet, it is our responsibility to preserve and protect nature for future generations, ensuring the continuation of its beauty and vitality."
+    }
+]

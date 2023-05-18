@@ -1,0 +1,181 @@
+* {
+  margin: 0;
+}
+
+#root {
+  padding: 0rem;
+  margin-top: 2rem;
+}
+
+.container {
+  display: flex;
+  gap: 1.375rem;
+}
+
+.bottom {
+  display: flex;
+  width: 55.9375rem;
+  overflow: hidden;
+}
+
+.right {
+  text-align: left;
+  font: normal normal normal 16px/18px Ubuntu;
+  letter-spacing: 0px;
+  color: #B4B3B3;
+  opacity: 1;
+  font-size: 0.8625rem;
+  box-sizing: border-box;
+}
+
+.right > h1 {
+  color: black;
+  margin-bottom: 0.4rem;
+  font: normal normal normal 50px/57px Ubuntu;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+}
+
+.size > img {
+  width: 55.9375rem;
+  height: 28.25rem;
+}
+
+.image {
+  object-fit: cover;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  transition: opacity 0.3s ease;
+}
+
+.contan {
+  position: relative;
+}
+
+.btn {
+  height: 3.125rem;
+  width: 6.25rem;
+  border-bottom-left-radius: 1.25rem;
+  border-top-left-radius: 1.25rem;
+  position: absolute;
+  background: linear-gradient(to bottom, #e1f2ff 0%, #b2d1ff 50%, #67a7ff 100%);
+  overflow: hidden;
+  border-right: none;
+  transition: transform 0.3s ease;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
+
+.btn:active {
+  transform: scale(0.95);
+}
+
+.box1 {
+  height: 3.125rem;
+  width: 4.375rem;
+  border-radius: 50%;
+  position: relative;
+  left: 4.375rem;
+  top: -0.125rem;
+  background-color: white;
+}
+
+.circle {
+  height: 3.125rem;
+  width: 4.375rem;
+  border-radius: 50%;
+  background: radial-gradient(circle at 50% 50%, #d1e5f5 0%, #b2d1ff 50%, #67a7ff 100%);
+  position: absolute;
+  left: 7.1875rem;
+  transition: transform 0.3s ease;
+}
+
+.circle:hover {
+  transform: scale(1.1);
+}
+
+.btn2 {
+  height: 3.125rem;
+  width: 6.25rem;
+  border-bottom-left-radius: 1.25rem;
+  border-top-left-radius: 1.25rem;
+  position: absolute;
+  background: linear-gradient(to bottom, #e1f2ff 0%, #b2d1ff 50%, #67a7ff 100%);
+  overflow: hidden;
+  border-right: none;
+  transform: rotate(180deg);
+  left: 12.1875rem;
+  transition: transform 0.3s ease;
+}
+
+.btn2:hover {
+  transform: scale(1.1) rotate(180deg);
+}
+
+.btn2:active {
+  transform: scale(0.95) rotate(180deg);
+}
+
+.box2 {
+  height: 3.125rem;
+  width: 4.375rem;
+  border-radius: 50%;
+  position: relative;
+  left: 4.375rem;
+  top: -0.125rem;
+  background-color: white;
+}
+
+.btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.5rem;
+  transform: translateX(-9rem);
+  width: 56.25rem;
+}
+
+.btn > img {
+  position: absolute;
+  top: 0.8125rem;
+  left: 2.0625rem;
+  transform: rotate(180deg);
+}
+
+.btn2 > img {
+  position: absolute;
+  top: 0.9125rem;
+  right: 3rem;
+  transform: rotate(180deg);
+}
+
+.circle > img {
+  position: absolute;
+  top: 15px;
+  right: 25px;
+}
+
+@media (max-width: 1320px) {
+  .container {
+    flex-wrap: wrap;
+  }
+
+  .left > .size > img {
+    width: 66.5rem;
+  }
+
+  .bottom {
+    width: 66.5rem;
+  }
+
+  .left {
+    width: 66.5rem;
+  }
+
+  .right > p {
+    width: 66.5rem;
+  }
+}

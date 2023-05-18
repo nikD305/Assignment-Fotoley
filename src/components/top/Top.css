@@ -1,0 +1,14 @@
+.cont{
+    display: flex;
+}
+.cont>img{
+    width: 10.8125rem;
+    height: 7.6875rem;
+        margin-right: 0.625rem;
+    border-radius: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.gray-image {
+    filter: grayscale(100%);
+  }
+  
