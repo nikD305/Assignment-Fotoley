@@ -59,7 +59,7 @@
   border-bottom-left-radius: 1.25rem;
   border-top-left-radius: 1.25rem;
   position: absolute;
-  background: linear-gradient(to bottom, #e1f2ff 0%, #b2d1ff 50%, #67a7ff 100%);
+  background: linear-gradient(135deg, #33ccff, #0077b3);
   overflow: hidden;
   border-right: none;
   transition: transform 0.3s ease;
@@ -87,7 +87,7 @@
   height: 3.125rem;
   width: 4.375rem;
   border-radius: 50%;
-  background: radial-gradient(circle at 50% 50%, #d1e5f5 0%, #b2d1ff 50%, #67a7ff 100%);
+  background: linear-gradient(135deg, #33ccff, #0077b3);
   position: absolute;
   left: 7.1875rem;
   transition: transform 0.3s ease;
@@ -103,7 +103,7 @@
   border-bottom-left-radius: 1.25rem;
   border-top-left-radius: 1.25rem;
   position: absolute;
-  background: linear-gradient(to bottom, #e1f2ff 0%, #b2d1ff 50%, #67a7ff 100%);
+  background: linear-gradient(135deg, #0077b3, #33ccff);
   overflow: hidden;
   border-right: none;
   transform: rotate(180deg);
